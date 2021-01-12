@@ -30,4 +30,12 @@ router.get('/exp', async (req, res, next) => {
   })
 })
 
+router.post('/message', async (req, res, next) => {
+  const messageData = req.body
+  
+  const messageCtr = controllers.message.instance()
+  const message = await messageCtr.post(messageData)
+  res.json(message)
+})
+
 module.exports = router
