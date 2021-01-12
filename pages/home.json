@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "header": "Sanad <br> Abu Jbara",
+    "subtext": "I am a software developer! I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hesitate and contact me.",
+    "bg_image": ""
+  },
+  "about": {
+    "header": "About Me",
+    "subtext": "Since writing my first project in high and manipulating it, I have been obsessed with the idea of using software to solve problems. Software engineering is a puzzle that I am determined to solve. I believe in the power of programming to transform the lives of people all around the world.",
+    "bg_image": "",
+    "images": [
+
+    ]
+  },
+  "languages": [
+    {"language": "JavaScript", "image": "/images/javascript.png"},
+    {"language": "Ruby"},
+    {"language": "HTML5"},
+    {"language": "CSS3"},
+    {"language": "SQL"},
+    {"language": "MongoDB"}
+  ],
+  "frameworks": [
+    {"framework": "Ruby On Rails"},
+    {"framework": "NodeJS"},
+    {"framework": "Express"},
+    {"framework": "React & Redux"},
+    {"framework": "Bootstrap"},
+    {"framework": "Saas"},
+    {"framework": "Mustache"}
+  ],
+  "interpersonal-skills": [
+    {"skill": "Teamwork"},
+    {"skill": "Problem Solving"},
+    {"skill": "Emotional Intelligence"},
+    {"skill": "Critical Thinking"},
+    {"skill": "Team Managment"},
+    {"skill": "Leadership"},
+    {"skill": "Negotiation"}
+  ],
+  "skills": [
+    {"skill": "GitHub"},
+    {"skill": "GitLab"},
+    {"skill": "Linux"},
+    {"skill": "Bash"},
+    {"skill": "Tirmenal"}
+  ]
+  
+}
